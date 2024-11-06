@@ -1,0 +1,757 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18642F36-921E-44B1-8A4B-BE6F7ED90576}|WebApi\\WebApi.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\webapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18642F36-921E-44B1-8A4B-BE6F7ED90576}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18642F36-921E-44B1-8A4B-BE6F7ED90576}|WebApi\\WebApi.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18642F36-921E-44B1-8A4B-BE6F7ED90576}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18642F36-921E-44B1-8A4B-BE6F7ED90576}|WebApi\\WebApi.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18642F36-921E-44B1-8A4B-BE6F7ED90576}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C033F4-FE8E-4977-AEE8-E434468D7B5E}|Domain\\Domain.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C033F4-FE8E-4977-AEE8-E434468D7B5E}|Domain\\Domain.csproj|solutionrelative:domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C033F4-FE8E-4977-AEE8-E434468D7B5E}|Domain\\Domain.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C033F4-FE8E-4977-AEE8-E434468D7B5E}|Domain\\Domain.csproj|solutionrelative:domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C033F4-FE8E-4977-AEE8-E434468D7B5E}|Domain\\Domain.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\domain\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C033F4-FE8E-4977-AEE8-E434468D7B5E}|Domain\\Domain.csproj|solutionrelative:domain\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C033F4-FE8E-4977-AEE8-E434468D7B5E}|Domain\\Domain.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C033F4-FE8E-4977-AEE8-E434468D7B5E}|Domain\\Domain.csproj|solutionrelative:domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C033F4-FE8E-4977-AEE8-E434468D7B5E}|Domain\\Domain.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\domain\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C033F4-FE8E-4977-AEE8-E434468D7B5E}|Domain\\Domain.csproj|solutionrelative:domain\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C033F4-FE8E-4977-AEE8-E434468D7B5E}|Domain\\Domain.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\domain\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C033F4-FE8E-4977-AEE8-E434468D7B5E}|Domain\\Domain.csproj|solutionrelative:domain\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\repositoryandservices\\common\\encrypter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|solutionrelative:repositoryandservices\\common\\encrypter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C033F4-FE8E-4977-AEE8-E434468D7B5E}|Domain\\Domain.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\domain\\helper\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C033F4-FE8E-4977-AEE8-E434468D7B5E}|Domain\\Domain.csproj|solutionrelative:domain\\helper\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18642F36-921E-44B1-8A4B-BE6F7ED90576}|WebApi\\WebApi.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18642F36-921E-44B1-8A4B-BE6F7ED90576}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18642F36-921E-44B1-8A4B-BE6F7ED90576}|WebApi\\WebApi.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18642F36-921E-44B1-8A4B-BE6F7ED90576}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\repositoryandservices\\service\\customservice\\productservice\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|solutionrelative:repositoryandservices\\service\\customservice\\productservice\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\repositoryandservices\\service\\customservice\\productservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|solutionrelative:repositoryandservices\\service\\customservice\\productservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C033F4-FE8E-4977-AEE8-E434468D7B5E}|Domain\\Domain.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\domain\\models\\viewmodels\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C033F4-FE8E-4977-AEE8-E434468D7B5E}|Domain\\Domain.csproj|solutionrelative:domain\\models\\viewmodels\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C033F4-FE8E-4977-AEE8-E434468D7B5E}|Domain\\Domain.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\domain\\models\\viewmodels\\cartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C033F4-FE8E-4977-AEE8-E434468D7B5E}|Domain\\Domain.csproj|solutionrelative:domain\\models\\viewmodels\\cartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C033F4-FE8E-4977-AEE8-E434468D7B5E}|Domain\\Domain.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\domain\\models\\viewmodels\\orderitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C033F4-FE8E-4977-AEE8-E434468D7B5E}|Domain\\Domain.csproj|solutionrelative:domain\\models\\viewmodels\\orderitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C033F4-FE8E-4977-AEE8-E434468D7B5E}|Domain\\Domain.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\domain\\models\\viewmodels\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C033F4-FE8E-4977-AEE8-E434468D7B5E}|Domain\\Domain.csproj|solutionrelative:domain\\models\\viewmodels\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C033F4-FE8E-4977-AEE8-E434468D7B5E}|Domain\\Domain.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\domain\\models\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C033F4-FE8E-4977-AEE8-E434468D7B5E}|Domain\\Domain.csproj|solutionrelative:domain\\models\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C033F4-FE8E-4977-AEE8-E434468D7B5E}|Domain\\Domain.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\domain\\models\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C033F4-FE8E-4977-AEE8-E434468D7B5E}|Domain\\Domain.csproj|solutionrelative:domain\\models\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C033F4-FE8E-4977-AEE8-E434468D7B5E}|Domain\\Domain.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C033F4-FE8E-4977-AEE8-E434468D7B5E}|Domain\\Domain.csproj|solutionrelative:domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\repositoryandservices\\service\\genericservice\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|solutionrelative:repositoryandservices\\service\\genericservice\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\repositoryandservices\\service\\genericservice\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|solutionrelative:repositoryandservices\\service\\genericservice\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\repositoryandservices\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|solutionrelative:repositoryandservices\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\repositoryandservices\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|solutionrelative:repositoryandservices\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18642F36-921E-44B1-8A4B-BE6F7ED90576}|WebApi\\WebApi.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\webapi\\auth\\jwtauthorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18642F36-921E-44B1-8A4B-BE6F7ED90576}|WebApi\\WebApi.csproj|solutionrelative:webapi\\auth\\jwtauthorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18642F36-921E-44B1-8A4B-BE6F7ED90576}|WebApi\\WebApi.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\webapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18642F36-921E-44B1-8A4B-BE6F7ED90576}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18642F36-921E-44B1-8A4B-BE6F7ED90576}|WebApi\\WebApi.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\webapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18642F36-921E-44B1-8A4B-BE6F7ED90576}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18642F36-921E-44B1-8A4B-BE6F7ED90576}|WebApi\\WebApi.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\webapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18642F36-921E-44B1-8A4B-BE6F7ED90576}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18642F36-921E-44B1-8A4B-BE6F7ED90576}|WebApi\\WebApi.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\webapi\\auth\\ijwtauthorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18642F36-921E-44B1-8A4B-BE6F7ED90576}|WebApi\\WebApi.csproj|solutionrelative:webapi\\auth\\ijwtauthorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18642F36-921E-44B1-8A4B-BE6F7ED90576}|WebApi\\WebApi.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\webapi\\controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18642F36-921E-44B1-8A4B-BE6F7ED90576}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\repositoryandservices\\service\\customservice\\orderservice\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|solutionrelative:repositoryandservices\\service\\customservice\\orderservice\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\repositoryandservices\\service\\customservice\\orderservice\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|solutionrelative:repositoryandservices\\service\\customservice\\orderservice\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\repositoryandservices\\service\\customservice\\orderitemservice\\orderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|solutionrelative:repositoryandservices\\service\\customservice\\orderitemservice\\orderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\repositoryandservices\\service\\customservice\\categoryservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|solutionrelative:repositoryandservices\\service\\customservice\\categoryservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\repositoryandservices\\service\\customservice\\categoryservice\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|solutionrelative:repositoryandservices\\service\\customservice\\categoryservice\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\repositoryandservices\\service\\customservice\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|solutionrelative:repositoryandservices\\service\\customservice\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\repositoryandservices\\service\\customservice\\userservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|solutionrelative:repositoryandservices\\service\\customservice\\userservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\repositoryandservices\\service\\customservice\\orderitemservice\\iorderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|solutionrelative:repositoryandservices\\service\\customservice\\orderitemservice\\iorderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\repositoryandservices\\service\\customservice\\cartservice\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|solutionrelative:repositoryandservices\\service\\customservice\\cartservice\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\repositoryandservices\\service\\customservice\\cartservice\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|solutionrelative:repositoryandservices\\service\\customservice\\cartservice\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\repositoryandservices\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|solutionrelative:repositoryandservices\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Migrations\\20240913053749_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RepositoryAndServices\\Migrations\\20240913053749_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|c:\\users\\tgsuser111\\source\\repos\\productmanagementsystem\\repositoryandservices\\migrations\\20240913055734_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7615A5E-4F81-4840-B73C-4016112C93F9}|RepositoryAndServices\\RepositoryAndServices.csproj|solutionrelative:repositoryandservices\\migrations\\20240913055734_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\Domain\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\Domain\\Models\\Product.cs",
+              "RelativeToolTip": "Domain\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T04:44:37.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\Domain\\Models\\User.cs",
+              "RelativeToolTip": "Domain\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T05:50:03.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\WebApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\WebApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T07:33:57.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAHwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T05:31:04.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Encrypter.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Common\\Encrypter.cs",
+              "RelativeDocumentMoniker": "RepositoryAndServices\\Common\\Encrypter.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Common\\Encrypter.cs",
+              "RelativeToolTip": "RepositoryAndServices\\Common\\Encrypter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T07:27:55.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-13T05:34:27.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\WebApi\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\WebApi\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T08:00:29.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\Domain\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\Domain\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Domain\\Models\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T04:45:29.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\Domain\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\Domain\\Models\\Order.cs",
+              "RelativeToolTip": "Domain\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T04:45:15.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\Domain\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\Domain\\Models\\Category.cs",
+              "RelativeToolTip": "Domain\\Models\\Category.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T04:45:05.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\Domain\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\Domain\\Models\\Cart.cs",
+              "RelativeToolTip": "Domain\\Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T04:45:39.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\Domain\\Helper\\Response.cs",
+              "RelativeDocumentMoniker": "Domain\\Helper\\Response.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\Domain\\Helper\\Response.cs",
+              "RelativeToolTip": "Domain\\Helper\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T08:40:25.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\WebApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\WebApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAIwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:06:22.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Service\\CustomService\\ProductService\\ProductService.cs",
+              "RelativeDocumentMoniker": "RepositoryAndServices\\Service\\CustomService\\ProductService\\ProductService.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Service\\CustomService\\ProductService\\ProductService.cs",
+              "RelativeToolTip": "RepositoryAndServices\\Service\\CustomService\\ProductService\\ProductService.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAiwKYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T06:12:08.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Service\\CustomService\\ProductService\\IProductService.cs",
+              "RelativeDocumentMoniker": "RepositoryAndServices\\Service\\CustomService\\ProductService\\IProductService.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Service\\CustomService\\ProductService\\IProductService.cs",
+              "RelativeToolTip": "RepositoryAndServices\\Service\\CustomService\\ProductService\\IProductService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T06:11:57.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\Domain\\Models\\ViewModels\\CategoryViewModel.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\ViewModels\\CategoryViewModel.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\Domain\\Models\\ViewModels\\CategoryViewModel.cs",
+              "RelativeToolTip": "Domain\\Models\\ViewModels\\CategoryViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T06:43:36.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CartViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\Domain\\Models\\ViewModels\\CartViewModel.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\ViewModels\\CartViewModel.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\Domain\\Models\\ViewModels\\CartViewModel.cs",
+              "RelativeToolTip": "Domain\\Models\\ViewModels\\CartViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T05:06:30.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderItemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\Domain\\Models\\ViewModels\\OrderItemViewModel.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\ViewModels\\OrderItemViewModel.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\Domain\\Models\\ViewModels\\OrderItemViewModel.cs",
+              "RelativeToolTip": "Domain\\Models\\ViewModels\\OrderItemViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T04:48:33.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\Domain\\Models\\ViewModels\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\ViewModels\\OrderViewModel.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\Domain\\Models\\ViewModels\\OrderViewModel.cs",
+              "RelativeToolTip": "Domain\\Models\\ViewModels\\OrderViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T04:48:08.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\Domain\\Models\\ViewModels\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\ViewModels\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\Domain\\Models\\ViewModels\\ProductViewModel.cs",
+              "RelativeToolTip": "Domain\\Models\\ViewModels\\ProductViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T04:47:55.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\Domain\\Models\\ViewModels\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\ViewModels\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\Domain\\Models\\ViewModels\\UserViewModel.cs",
+              "RelativeToolTip": "Domain\\Models\\ViewModels\\UserViewModel.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAmwBAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T05:50:55.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\Domain\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\Domain\\BaseEntity.cs",
+              "RelativeToolTip": "Domain\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T04:54:35.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Service\\GenericService\\IService.cs",
+              "RelativeDocumentMoniker": "RepositoryAndServices\\Service\\GenericService\\IService.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Service\\GenericService\\IService.cs",
+              "RelativeToolTip": "RepositoryAndServices\\Service\\GenericService\\IService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T06:10:01.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Service\\GenericService\\Service.cs",
+              "RelativeDocumentMoniker": "RepositoryAndServices\\Service\\GenericService\\Service.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Service\\GenericService\\Service.cs",
+              "RelativeToolTip": "RepositoryAndServices\\Service\\GenericService\\Service.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T06:10:09.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "RepositoryAndServices\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Repository\\Repository.cs",
+              "RelativeToolTip": "RepositoryAndServices\\Repository\\Repository.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAywEAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T05:42:29.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryAndServices\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Repository\\IRepository.cs",
+              "RelativeToolTip": "RepositoryAndServices\\Repository\\IRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T05:42:15.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "JWTAuthorization.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\WebApi\\Auth\\JWTAuthorization.cs",
+              "RelativeDocumentMoniker": "WebApi\\Auth\\JWTAuthorization.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\WebApi\\Auth\\JWTAuthorization.cs",
+              "RelativeToolTip": "WebApi\\Auth\\JWTAuthorization.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T08:36:31.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\WebApi\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\WebApi\\Controllers\\CartController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAcwBoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T07:55:06.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\WebApi\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\WebApi\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T08:31:03.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\WebApi\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\WebApi\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T07:45:28.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IJWTAuthorization.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\WebApi\\Auth\\IJWTAuthorization.cs",
+              "RelativeDocumentMoniker": "WebApi\\Auth\\IJWTAuthorization.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\WebApi\\Auth\\IJWTAuthorization.cs",
+              "RelativeToolTip": "WebApi\\Auth\\IJWTAuthorization.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T08:36:11.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrderItemController.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\WebApi\\Controllers\\OrderItemController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\OrderItemController.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\WebApi\\Controllers\\OrderItemController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\OrderItemController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T08:02:09.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Service\\CustomService\\OrderService\\OrderService.cs",
+              "RelativeDocumentMoniker": "RepositoryAndServices\\Service\\CustomService\\OrderService\\OrderService.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Service\\CustomService\\OrderService\\OrderService.cs",
+              "RelativeToolTip": "RepositoryAndServices\\Service\\CustomService\\OrderService\\OrderService.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAYwI8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T06:45:05.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Service\\CustomService\\OrderService\\IOrderService.cs",
+              "RelativeDocumentMoniker": "RepositoryAndServices\\Service\\CustomService\\OrderService\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Service\\CustomService\\OrderService\\IOrderService.cs",
+              "RelativeToolTip": "RepositoryAndServices\\Service\\CustomService\\OrderService\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T06:44:53.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "OrderItemService.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Service\\CustomService\\OrderItemService\\OrderItemService.cs",
+              "RelativeDocumentMoniker": "RepositoryAndServices\\Service\\CustomService\\OrderItemService\\OrderItemService.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Service\\CustomService\\OrderItemService\\OrderItemService.cs",
+              "RelativeToolTip": "RepositoryAndServices\\Service\\CustomService\\OrderItemService\\OrderItemService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA1wCgAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T07:19:22.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Service\\CustomService\\CategoryService\\CategoryService.cs",
+              "RelativeDocumentMoniker": "RepositoryAndServices\\Service\\CustomService\\CategoryService\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Service\\CustomService\\CategoryService\\CategoryService.cs",
+              "RelativeToolTip": "RepositoryAndServices\\Service\\CustomService\\CategoryService\\CategoryService.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAAF4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T06:42:05.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Service\\CustomService\\CategoryService\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "RepositoryAndServices\\Service\\CustomService\\CategoryService\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Service\\CustomService\\CategoryService\\ICategoryService.cs",
+              "RelativeToolTip": "RepositoryAndServices\\Service\\CustomService\\CategoryService\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T06:41:35.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Service\\CustomService\\UserService\\UserService.cs",
+              "RelativeDocumentMoniker": "RepositoryAndServices\\Service\\CustomService\\UserService\\UserService.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Service\\CustomService\\UserService\\UserService.cs",
+              "RelativeToolTip": "RepositoryAndServices\\Service\\CustomService\\UserService\\UserService.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAmwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T07:24:00.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Service\\CustomService\\UserService\\IUserService.cs",
+              "RelativeDocumentMoniker": "RepositoryAndServices\\Service\\CustomService\\UserService\\IUserService.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Service\\CustomService\\UserService\\IUserService.cs",
+              "RelativeToolTip": "RepositoryAndServices\\Service\\CustomService\\UserService\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T07:23:50.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IOrderItemService.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Service\\CustomService\\OrderItemService\\IOrderItemService.cs",
+              "RelativeDocumentMoniker": "RepositoryAndServices\\Service\\CustomService\\OrderItemService\\IOrderItemService.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Service\\CustomService\\OrderItemService\\IOrderItemService.cs",
+              "RelativeToolTip": "RepositoryAndServices\\Service\\CustomService\\OrderItemService\\IOrderItemService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T07:19:09.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Service\\CustomService\\CartService\\ICartService.cs",
+              "RelativeDocumentMoniker": "RepositoryAndServices\\Service\\CustomService\\CartService\\ICartService.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Service\\CustomService\\CartService\\ICartService.cs",
+              "RelativeToolTip": "RepositoryAndServices\\Service\\CustomService\\CartService\\ICartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T07:05:14.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Service\\CustomService\\CartService\\CartService.cs",
+              "RelativeDocumentMoniker": "RepositoryAndServices\\Service\\CustomService\\CartService\\CartService.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Service\\CustomService\\CartService\\CartService.cs",
+              "RelativeToolTip": "RepositoryAndServices\\Service\\CustomService\\CartService\\CartService.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAuwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T07:05:25.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RepositoryAndServices\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RepositoryAndServices\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T05:25:23.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20240913055734_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Migrations\\20240913055734_InitialCreate.cs",
+              "RelativeDocumentMoniker": "RepositoryAndServices\\Migrations\\20240913055734_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Migrations\\20240913055734_InitialCreate.cs",
+              "RelativeToolTip": "RepositoryAndServices\\Migrations\\20240913055734_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T05:57:34.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20240913053749_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Migrations\\20240913053749_InitialCreate.cs",
+              "RelativeDocumentMoniker": "RepositoryAndServices\\Migrations\\20240913053749_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\TGSUser111\\source\\repos\\ProductManagementSystem\\RepositoryAndServices\\Migrations\\20240913053749_InitialCreate.cs",
+              "RelativeToolTip": "RepositoryAndServices\\Migrations\\20240913053749_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T05:37:50.504Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
